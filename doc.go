@@ -1,0 +1,4 @@
+/*
+goexec document
+*/
+package goexec
